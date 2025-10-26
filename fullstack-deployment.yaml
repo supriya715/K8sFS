@@ -98,7 +98,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: imasheshk/k8sfes104d:v1
+          image: ksupriya715/k8sfs:v1
           ports:
             - containerPort: 8080
           env:
